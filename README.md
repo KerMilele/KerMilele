@@ -1,4 +1,6 @@
-## Hi there 👋
+## Computer Science ePortfolio
+
+Welcome to my Computer Science ePortfolio. This portfolio demonstrates my growth and skills in computer science through artifacts and enhancements completed during my academic journey.
 
 <!--
 **KerMilele/KerMilele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
