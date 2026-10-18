@@ -1,4 +1,4 @@
-# Enhancement Three — Databases
+# Enhancement Three / Databases
 
 For this enhancement, I migrated the product and order data from hardcoded React files and Firebase Firestore to a MySQL relational database.
 
