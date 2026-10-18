@@ -1,4 +1,4 @@
-# Enhancement Two — Algorithms and Data Structures
+# Enhancement Two / Algorithms and Data Structures
 
 For this enhancement, I improved the product search, filtering, and sorting features in my OWNHER e-commerce website. Customers can search by product name or shade, filter by price range and availability, and sort products by price or name.
 
