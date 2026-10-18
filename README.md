@@ -39,3 +39,36 @@ Together, these enhancements show my ability to improve an existing application,
 Completing my Computer Science program has helped me discover my strengths and develop clearer career goals. I learned that software development requires more than programming. It also involves teamwork, communication, problem-solving, testing, and security.
 
 My goal is to continue growing in data analytics, business intelligence, and data science while using my programming and web development skills. This ePortfolio represents my growth throughout the program and demonstrates my ability to apply what I have learned to real-world projects.
+
+
+---
+
+## OWNHER Capstone Artifacts
+
+OWNHER is an e-commerce website that I enhanced throughout my CS 499 capstone. The links below show the original application and the improvements I made in three areas of computer science.
+
+### Original Artifact
+
+[View Original OWNHER Code](artifacts/original/OWNHER/)
+
+### Enhancement One — Software Engineering and Design
+
+I improved inventory management by adding product stock information and validation.
+
+[Read Enhancement One Narrative](artifacts/enhancement-one/Module%20One.docx)
+
+### Enhancement Two — Algorithms and Data Structures
+
+I improved product searching, filtering and sorting.
+
+[Read Enhancement Two Narrative](artifacts/enhancement-two/Module%20Two.docx)
+
+### Enhancement Three — Databases
+
+I connected the application to MySQL to manage products, inventory and orders.
+
+[View Final Enhanced OWNHER Code](artifacts/enhancement-three/OWNHER/)
+
+[Read Enhancement Three Narrative](artifacts/enhancement-three/Module%20Three.docx)
+
+[View MySQL Database Export](artifacts/enhancement-three/ownher_db.sql)
