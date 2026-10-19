@@ -49,25 +49,25 @@ OWNHER is an e-commerce website that I enhanced throughout my CS 499 capstone. T
 
 ### Original Artifact
 
-[View Original OWNHER Code](artifacts/original/OWNHER/)
+[View Original OWNHER Code](https://github.com/KerMilele/KerMilele/tree/main/artifacts/original/OWNHER)
 
-### Enhancement One — Software Engineering and Design
+### Enhancement One, Software Engineering and Design
 
 I improved inventory management by adding product stock information and validation.
 
 [Read Enhancement One Narrative](artifacts/enhancement-one/Module%20One.docx)
 
-### Enhancement Two — Algorithms and Data Structures
+### Enhancement Two, Algorithms and Data Structures
 
 I improved product searching, filtering and sorting.
 
 [Read Enhancement Two Narrative](artifacts/enhancement-two/Module%20Two.docx)
 
-### Enhancement Three — Databases
+### Enhancement Three, Databases
 
 I connected the application to MySQL to manage products, inventory and orders.
 
-[View Final Enhanced OWNHER Code](artifacts/enhancement-three/OWNHER/)
+[View Final Enhanced OWNHER Code](https://github.com/KerMilele/KerMilele/tree/main/artifacts/enhancement-three/OWNHER)
 
 [Read Enhancement Three Narrative](artifacts/enhancement-three/Module%20Three.docx)
 
