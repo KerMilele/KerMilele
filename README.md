@@ -43,6 +43,14 @@ My goal is to continue growing in data analytics, business intelligence, and dat
 
 ---
 
+## Code Review
+
+As part of my CS 499 Capstone, I recorded a code review of my original OWNHER e-commerce application. In this video, I explain how the application works, identify areas that need improvement and discuss my plans for the three enhancements: Software Engineering and Design, Algorithms and Data Structures and Databases.
+
+**[Watch My Code Review Video on YouTube](https://youtu.be/RF4rE486Dzw)**
+
+---
+
 ## OWNHER Capstone Artifacts
 
 OWNHER is an e-commerce website that I enhanced throughout my CS 499 capstone. The links below show the original application and the improvements I made in three areas of computer science.
